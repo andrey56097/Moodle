@@ -14,7 +14,7 @@ sudo docker image rmi -f ID_or_Name
 sudo docker inspect 3a5e53f63281
 
 // list of containers
-
+sudo docker ps
 
 // stop container
 sudo docker container stop ID_or_Name
