@@ -28,3 +28,6 @@ sudo netstat -nlp | grep 8888
 
 
 sudo curl -sSL https://github.com/andrey56097/Moodle/blob/main/docker-compose.yml > docker-compose.yml
+
+// moodle location 
+cd  /var/lib/docker/volumes/
