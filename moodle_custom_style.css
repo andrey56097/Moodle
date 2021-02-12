@@ -1,0 +1,264 @@
+.container {
+max-width: 100vw !important;
+}
+
+#header .container {
+background: #ffc039;
+max-width: 100vw !important;
+}
+#header{
+background: #ffc039;
+}
+
+body #footer .footer-main, #footer .footer-bootom{
+background: #E6E7E7;
+}
+
+#footer p, #footer h6 {
+color: #262626 !important;
+}
+
+#footer h2 {
+color: #FFC039 !important;
+}
+
+body #footer .footer-main .foot-links ul li a{
+color: #262626 !important;
+}
+
+body #footer .social-media ul li a {
+color: #FFC039;
+}
+
+#footer .footer-main .contact-info p a {
+color: #262626;
+}
+
+.course-content .topics .section .summary .no-overflow {
+background: #E6E7E7 !important;
+}
+
+/* Change Impression Colour Scheme */
+/* Primary Colour: #ffc039 */
+/* Secondary Colour: #5C58AF */
+  
+/* Links and buttons */
+a {
+    color: #ffc039;
+}
+a:hover, a:active, a:focus {
+    color: #5C58AF;
+}
+  
+.btn-cta, a.btn-cta {
+    background: #ffc039;
+}
+  
+.btn-cta:hover, a.btn-cta:hover, .btn-cta:active, a.btn-cta:active, .btn-cta:focus, a.btn-cta:focus {
+    background: #5C58AF;
+}
+  
+.btn-primary, a.btn-primary {
+    background: #ffc039;
+}
+  
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover, a.btn-primary:active, a.btn-primary:focus, a.btn-primary:hover {
+    background: #5C58AF !important;
+}
+  
+.btn-reversed, a.btn-reversed {
+    color: #ffc039 !important;
+}
+  
+.path-admin .buttons input[type=submit], button, input#id_submitbutton, input#id_submitbutton2, input.form-submit, input[type=submit], input[type=button], input[type=reset], td.submit input {
+    background: #ffc039;
+}
+  
+.path-admin .buttons input[type=submit]:active, .path-admin .buttons input[type=submit]:focus, .path-admin .buttons input[type=submit]:hover, button:active, button:focus, button:hover, input#id_submitbutton2:active, input#id_submitbutton2:focus, input#id_submitbutton2:hover, input#id_submitbutton:active, input#id_submitbutton:focus, input#id_submitbutton:hover, input.form-submit:active, input.form-submit:focus, input.form-submit:hover, input[type=submit]:active, input[type=submit]:focus, input[type=submit]:hover, input[type=button]:active, input[type=button]:focus, input[type=button]:hover, input[type=reset]:active, input[type=reset]:focus, input[type=reset]:hover, td.submit input:active, td.submit input:focus, td.submit input:hover {
+    background: #5C58AF;
+}
+  
+/* Topbar */
+.site-header .top-bar {
+    background: #ffc039;
+}
+ 
+/* Notifications dropdown */
+.site-header .top-bar .popover-region .popover-region-header-text{
+  color: #ffc039;
+}
+/* Messages dropdown */
+.site-header .top-bar .popover-region a {
+  color: #ffc039;
+}
+ 
+/* Forms */
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #ffc039;
+}
+  
+/* Main Menu */
+.site-header .main-nav .nav li a:hover {
+    color: #ffc039;
+}
+.site-header .main-nav .nav .dropdown-menu {
+    border-top-color: #ffc039;
+}
+.site-header .main-nav .nav .dropdown-menu:before {
+    border-bottom-color: #ffc039;
+}
+  
+.site-header .main-nav .nav .dropdown-menu a:hover {
+    color: #ffc039;
+}
+  
+/* Frontpage carousel */
+  
+.promo-section .carousel-indicators li.active {
+    background-color: #ffc039;
+}
+  
+/* Frontpage why section */
+.why-section .figure-holder {
+    color: #ffc039;
+}
+  
+.why-section .item-title {
+    color: #ffc039;
+}
+  
+/* Frontpage testimonials section */
+.reviews-section .review-title {
+    color: #ffc039;
+}
+  
+/* Frontpage CTA section */
+.cta-section-inner {
+    background: #ffc039;
+}
+  
+/* Frontpage courses */
+#page #region-main #frontpage-course-list h2, #page #region-main #site-news-forum h2 {
+    background: #ffc039;
+}
+  
+.course_category_tree .category>.info>.categoryname {
+    background-color: #ffc039;
+}
+  
+/* Footer */
+.site-footer .footer-content {
+    background: #ffc039;
+}
+  
+/* Back to top control */
+#topcontrol {
+    background: #ffc039;
+}
+  
+#topcontrol:hover {
+    background: #5C58AF;
+}
+  
+/* Moodle courses */
+#page #region-main .loginbox {
+    border-top-color:  #ffc039;
+}
+  
+#page #region-main .region-main-inner {
+    border-top-color:  #ffc039;
+}
+  
+#page .block-region .block .header {
+    background: #ffc039;
+}
+  
+#page #region-main h3.sectionname {
+    color: #ffc039;
+}
+  
+.uneditable-input:focus, input[type=datetime]:focus, input[type=datetime-local]:focus, input[type=date]:focus, input[type=month]:focus, input[type=time]:focus, input[type=week]:focus, input[type=number]:focus, input[type=url]:focus, input[type=search]:focus, input[type=tel]:focus, input[type=color]:focus, input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, textarea:focus {
+    border-color: #ffc039;
+}
+  
+/* Bootstrap Components */
+.color-theme {
+    color: #ffc039;
+}
+  
+#page #region-main .table.table-boxed>thead>tr>th {
+    background: #ffc039;
+}
+  
+.nav-tabs>li.active a, .nav-tabs>li.active a:active, .nav-tabs>li.active a:focus, .nav-tabs>li.active a:hover {
+    border-top-color: #ffc039;
+}
+  
+.custom-quote {
+    border-color: #ffc039;
+}
+  
+.custom-quote .fa {
+    color: #ffc039;
+}
+  
+.custom-quote .people .name {
+    color: #ffc039;
+}
+  
+.box.box-border {
+    border-color: #ffc039;
+}
+  
+.box.box-theme {
+    background: #ffc039;
+}
+  
+.panel-group .panel .panel-heading .panel-title a {
+    color: #ffc039;
+}
+.panel-group .panel .panel-heading .panel-title a:hover {
+    color: #5C58AF;
+}
+  
+#page #region-main .table>thead>tr>th {
+    border-bottom-color: #ffc039;
+}
+  
+.label.label-theme {
+    background: #ffc039;
+}
+  
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover, a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
+    border-color: #ffc039;
+    background: #ffc039;
+}
+  
+.panel-theme {
+    border-color: #ffc039;
+}
+  
+.panel-theme>.panel-footer, .panel-theme>.panel-heading {
+    border-color: #ffc039;
+    background: #ffc039;
+}
+  
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover, a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
+    border-color: #ffc039;
+    background: #ffc039;
+}
