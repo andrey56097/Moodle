@@ -18,6 +18,7 @@ sudo docker ps
 
 // stop container
 sudo docker container stop ID_or_Name
+
 // remove container
 sudo docker rm ID_or_Name
 
